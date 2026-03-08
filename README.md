@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Yujin 👋
+##Hi, I'm Yujin 👋
 
 🎓 Computer Science Student  
 💻 Learning C / C++ / Algorithms  
