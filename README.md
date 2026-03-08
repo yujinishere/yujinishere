@@ -1,5 +1,4 @@
-##Hi, I'm Yujin 👋
-
+# Hi, I'm Yujin 👋
 🎓 Computer Science Student  
 💻 Learning C / C++ / Algorithms  
 🚀 Interested in Security & AI & Game Development 
